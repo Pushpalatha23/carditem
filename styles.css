@@ -1,0 +1,10 @@
+.container{
+    background-color:black ;
+    display: flex;
+    border-radius: 20px;
+    
+}
+.card-img{
+    border-color: aqua;
+    border:0cap;
+}
